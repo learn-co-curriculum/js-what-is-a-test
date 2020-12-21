@@ -58,8 +58,8 @@ variable, not just that variable name.
 ### The Tests
 
 We have our code, now let's take a look at the tests. They are located in the
-`example-test` folder inside a file named `index-test.js`. In this lesson we are
-going to go over all of the tests, and then show you how to run them in the next
+`test` folder inside a file named `index-test.js`. In this lesson we are going 
+to go over all of the tests, and then show you how to run them in the next
 lesson.
 
 ```javascript
